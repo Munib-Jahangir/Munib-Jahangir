@@ -51,12 +51,17 @@ As the founder of **Paknova Games**, my vision is to **represent Pakistan global
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
+</div><br><br>
+## 📊 GitHub Stats  
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=munib-jahangir&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=munib-jahangir&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munib-jahangir&layout=compact&theme=radical&hide_border=true" height="150" />
+
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munib-jahangir&show_icons=true&locale=en&layout=compact" alt="munib-jahangir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munib-jahangir&show_icons=true&locale=en" alt="munib-jahangir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munib-jahangir&" alt="munib-jahangir" /></p> <br><br>
+ <br><br>
 <!-- Top Full-Width Centered GIF -->
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" />
@@ -65,4 +70,5 @@ As the founder of **Paknova Games**, my vision is to **represent Pakistan global
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
