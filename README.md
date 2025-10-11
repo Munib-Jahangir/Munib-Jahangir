@@ -52,6 +52,7 @@ As the founder of **Paknova Games**, my vision is to **represent Pakistan global
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div><br><br>
+
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -70,6 +71,14 @@ As the founder of **Paknova Games**, my vision is to **represent Pakistan global
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h1>🎶 Fun Touch<h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=500&lines=Frontend+Developer;MERN+Stack+Learner;Coding+Is+Love+❤;Always+Learning+New+Things">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200">
+</p>
 
 
 
