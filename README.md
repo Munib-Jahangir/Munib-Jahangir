@@ -158,18 +158,15 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
 </div>
 
 ---
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<h1 align="center">🎶 Fun Touch</h1>
+## 🇵🇰 Pakistani Pride
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=600&lines=Frontend+Developer;MERN+Stack+Learner;Coding+Is+Love+❤;Always+Learning+New+Things;Creating+Games+That+Represent+Pakistan;">
+  <img src="./pakistan-603_256.gif" width="250" alt="Pakistani Flag Waving">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="220">
-</p>
+> *“This code, this art — all built to represent the streets, sounds, and spirit of Pakistan.”*  
+> — **Munib Jahangir, Founder of PakNova Games**
+
 
 ---
 
