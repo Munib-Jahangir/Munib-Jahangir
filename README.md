@@ -1,84 +1,187 @@
-
+<!-- 🌌 MAX-LEVEL GITHUB README by Munib Jahangir 🌌 -->
+<!-- Inspired by Futuristic Pakistan | Powered by Code, Creativity & Culture -->
 
 <h1 align="center">
 
-  <!-- Wavy Background with Orbitron font -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi+👋,+I'm+Munib+Jahangir&fontAlign=50&fontAlignY=40&fontSize=40&fontColor=ffffff&animation=twinkling&font=Orbitron&desc=🎮+Game+Developer+%7C+💻+Creative+Coder&descAlign=50&descAlignY=70&descSize=20" />
+  <!-- 🚀 Wavy Futuristic Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000428,100:004e92&text=Hi+👋,+I'm+Munib+Jahangir&fontAlign=50&fontAlignY=40&fontSize=42&fontColor=ffffff&animation=fadeIn&font=Orbitron&desc=🎮+Game+Developer+%7C+💻+Creative+Coder&descAlign=50&descAlignY=70&descSize=18" />
 
-  <!-- Subtitle with Press Start 2P font -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Professional+Game+Developer;Full-Stack+Web+%26+App+Learner;Creative+Coder+from+Pakistan;" alt="Typing SVG" />
+  <!-- Typing Animation Subtitle -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Game+Developer+from+Pakistan;Full-Stack+Learner;Creative+Thinker+%26+Coder;Founder+of+Paknova+Games;Dreaming+Big,+Building+Bigger" alt="Typing SVG" />
 
 </h1>
 
+---
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d3e6b44e-c77b-49b4-9f49-f3a18a38b7b5" width="300" />
 </div>
 
+---
+
+## 👤 About Me
+
+Hey there! 👋  
+I'm **Munib Jahangir**, a **Student**, **Game Developer**, **Web/App Developer**, and **Creative Designer** from **Pakistan 🇵🇰**.
+
+> “I believe in fusing art, logic, and emotion — turning code into experiences.”
+
+I’m building a future where **Pakistani innovation meets global standards**, through **interactive storytelling, futuristic design**, and **vision-driven projects**.
 
 ---
 
-## 👤 Who I Am
-
-Hi! I’m **Munib Jahangir** — a **Student** 📚, **Game Developer** 🎮, **Web/App Developer** 💻, and **Creative Designer** 🎨 from **Pakistan** 🇵🇰.  
-
----
-
-### 📚 Student + Developer  
-Currently, I’m pursuing my studies while also building my career in **game development** and **technology**.  
-Alongside my education, I create:  
-- 🎮 **Story-driven games**  
-- 🌐 **Futuristic websites**  
-- 📱 **Modern applications**  
+### 🧭 My Mission
+To transform **Pakistan’s digital image** into a hub of **creativity, quality, and futuristic gaming** 🎮  
+Through **Paknova Games**, I aim to blend our **local roots** with **global standards**.
 
 ---
 
-### 🏢 Founder of Paknova Games  
-As the founder of **Paknova Games**, my vision is to **represent Pakistan globally** 🌍 by blending **creativity, culture, and technology** into every project I build.  
+### 💡 Philosophy
+- 🌟 *Create experiences, not just code.*
+- 💭 *Think futuristic, act realistic.*
+- 🔥 *Dream it. Code it. Live it.*
 
 ---
 
-### ✨ In Short  
-👉 A **learner**, a **creator**, and a **visionary student** who is shaping **ideas into reality** while continuing my education.  
+## 🎮 Developer’s Journey
 
-## 🛠️ My Skills
-<div>
+### 🧩 Early Spark
+Started with curiosity — now crafting entire worlds 🌍.  
+From coding small prototypes to designing story-driven universes with **emotion, culture, and sci-fi vibes.**
+
+### 🏗️ Current Focus
+- 🎮 **Game Development (Unity, Unreal)**
+- 🌐 **Futuristic Web Interfaces**
+- 📱 **Interactive App Systems**
+- 🎨 **Pakistani Futurism Design Aesthetic**
+
+---
+
+## 🏢 Founder — Paknova Games
+
+> 🎯 *"Turning Pakistani creativity into a global digital identity."*
+
+**Paknova Games** is my own indie game studio where art meets technology.  
+We design **cinematic stories**, **3D games**, and **tech experiences** inspired by **Pakistani culture + futuristic vision**.
+
+### 🎯 Paknova Goals:
+- Represent **Pakistan** on **Steam** & **international gaming platforms**.  
+- Support local artists, coders & storytellers.  
+- Build a **national creative identity** through digital art.
+
+---
+
+## ⚡ My Skills
+
+<div align="center">
+
+| 🎮 Game Dev | 💻 Web Dev | 🧠 Logic & AI | 🎨 Design Tools |
+|-------------|-------------|----------------|----------------|
+| Unity 3D | HTML, CSS, JS | C#, Node.js | Blender |
+| Unreal Engine | React (learning) | AI Behavior Trees | Figma |
+| Game Mechanics | PHP & Databases | Logic Systems | Adobe Suite |
+
+</div>
+
+---
+
+### 💫 Visual Skill Showcase
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
-</div><br><br>
+</div>
 
-## 📊 GitHub Stats  
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=munib-jahangir&show_icons=true&theme=radical&count_private=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=munib-jahangir&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munib-jahangir&layout=compact&theme=radical&hide_border=true" height="150" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=munib-jahangir&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=munib-jahangir&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munib-jahangir&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
- <br><br>
-<!-- Top Full-Width Centered GIF -->
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%" />
-</p>
 
+---
+
+### 🌌 Dynamic Contribution Graph  
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
+---
+
+## 🧠 Tools & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unity,unreal,visualstudio,vscode,blender,figma,html,css,js,nodejs,git,github,python,php,mysql,react,ae,ps&perline=6" />
+</div>
+
+---
+
+## 🏆 Major Achievements
+
+- 🕹️ Built **SkyFire Racer** — Pakistan’s first futuristic racing concept.  
+- 🌆 Developing **Dead Horizon 2**, **Aurora Initiative**, and **Pak Thunder Racing**.  
+- 🌐 Founded **Paknova Games**, representing creative Pakistan internationally.  
+- 💡 Open-source contributor & community mentor.  
+- 🎓 Self-taught developer mastering **game systems + web fusion**.  
+
+---
+
+## 🎨 Design Philosophy
+
+> 💬 “Every interface should tell a story. Every story deserves an interface.”
+
+- 🎥 Blend of **cinematic visuals** and **functional UX**  
+- 🌙 Themes: *Pakistani Futurism, Desi Neon, Retro Tech, Sci-Fi Storytelling*  
+- 🪩 Inspired by **Scary Teacher 3D**, **Indie Pakistani creativity**, and **AAA quality goals**
+
+---
+
+## 💬 Fun Facts
+
+- ⚙️ I debug with **lofi beats** 🎧  
+- 🌍 Dream: to launch a **Pakistani game on Steam**  
+- 🧩 Believe: *“Ideas are just the beginning — execution makes them legends.”*  
+- 🚀 Motto: *Never normal. Always creative.*
+
+---
+
+## 🌐 Connect With Me  
+
+<div align="center">
+  <a href="https://github.com/munib-jahangir"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>
+  <a href="https://www.linkedin.com/in/munib-jahangir"><img src="https://skillicons.dev/icons?i=linkedin" width="50" /></a>
+  <a href="mailto:munibjahangir.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="50" /></a>
+</div>
+
+---
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h1>🎶 Fun Touch<h1>
+
+<h1 align="center">🎶 Fun Touch</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=500&lines=Frontend+Developer;MERN+Stack+Learner;Coding+Is+Love+❤;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=600&lines=Frontend+Developer;MERN+Stack+Learner;Coding+Is+Love+❤;Always+Learning+New+Things;Creating+Games+That+Represent+Pakistan;">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="220">
 </p>
 
+---
 
+<h3 align="center">✨ “Code your imagination. Create your future.” ✨</h3>
 
+<p align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8919cc7e-0b13-4fd3-9638-122e4d59de87" width="100%" />
+</p>
+
+---
+
+<h2 align="center">🚀 Made with ❤️ by <b>Munib Jahangir</b> | Paknova Games</h2>
+<p align="center">🌐 Bridging Creativity, Culture & Code from Pakistan 🇵🇰</p>
