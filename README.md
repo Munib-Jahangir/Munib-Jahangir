@@ -13,9 +13,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d3e6b44e-c77b-49b4-9f49-f3a18a38b7b5" width="300" />
-</div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> </div>
 
 ---
 
@@ -75,11 +73,11 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
 
 <div align="center">
 
-| 🎮 Game Dev | 💻 Web Dev | 🧠 Logic & AI | 🎨 Design Tools |
-|-------------|-------------|----------------|----------------|
-| Unity 3D | HTML, CSS, JS | C#, Node.js | Blender |
-| Unreal Engine | React (learning) | AI Behavior Trees | Figma |
-| Game Mechanics | PHP & Databases | Logic Systems | Adobe Suite |
+| 🎮 Game Dev | 💻 Web Dev 
+|-------------|-------------
+| Unity 3D , C#| HTML, CSS, JS 
+| Unreal Engine | React (learning) 
+| Game Mechanics | PHP & Databases (learning) 
 
 </div>
 
@@ -116,7 +114,7 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
 ## 🧠 Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,visualstudio,vscode,blender,figma,html,css,js,nodejs,git,github,python,php,mysql,react,ae,ps&perline=6" />
+  <img src="https://skillicons.dev/icons?i=unity,unreal,visualstudio,vscode,blender,figma,html,css,js,nodejs,git,github,&perline=6" />
 </div>
 
 ---
