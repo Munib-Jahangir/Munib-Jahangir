@@ -1,32 +1,27 @@
-<!-- 🌌 MAX-LEVEL GITHUB README by Munib Jahangir 🌌 -->
 
+You said:
+<!-- 🌌 MAX-LEVEL GITHUB README by Munib Jahangir 🌌 -->
 <!-- Inspired by Futuristic Pakistan | Powered by Code, Creativity & Culture -->
 
 <h1 align="center">
 
   <!-- 🚀 Wavy Futuristic Header -->
-
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000428,100:004e92&text=Hi+👋,+I'm+Munib+Jahangir&fontAlign=50&fontAlignY=40&fontSize=42&fontColor=ffffff&animation=fadeIn&font=Orbitron&desc=🎮+Game+Developer+%7C+💻+Creative+Coder&descAlign=50&descAlignY=70&descSize=18" />
 
   <!-- Typing Animation Subtitle -->
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Game+Developer+from+Pakistan;Full-Stack+Learner;Creative+Thinker+%26+Coder;Founder+of+Paknova+Games;Dreaming+Big,+Building+Bigger" alt="Typing SVG" />
 
 </h1>
 
 ---
 
-<!-- 🇵🇰 New GIF Before About Me -->
-
-<p align="center">
-  <img src="./Animated_Pakistani_Mountains_GIF.gif" width="100%" alt="Pakistani Mountains Animated Flag" />
-</p>
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> </div>
 
 ---
 
 ## 👤 About Me
 
-Hey there! 👋
+Hey there! 👋  
 I'm **Munib Jahangir**, a **Student**, **Game Developer**, **Web/App Developer**, and **Creative Designer** from **Pakistan 🇵🇰**.
 
 > “I believe in fusing art, logic, and emotion — turning code into experiences.”
@@ -36,33 +31,29 @@ I’m building a future where **Pakistani innovation meets global standards**, t
 ---
 
 ### 🧭 My Mission
-
-To transform **Pakistan’s digital image** into a hub of **creativity, quality, and futuristic gaming** 🎮
+To transform **Pakistan’s digital image** into a hub of **creativity, quality, and futuristic gaming** 🎮  
 Through **Paknova Games**, I aim to blend our **local roots** with **global standards**.
 
 ---
 
 ### 💡 Philosophy
-
-* 🌟 *Create experiences, not just code.*
-* 💭 *Think futuristic, act realistic.*
-* 🔥 *Dream it. Code it. Live it.*
+- 🌟 *Create experiences, not just code.*
+- 💭 *Think futuristic, act realistic.*
+- 🔥 *Dream it. Code it. Live it.*
 
 ---
 
 ## 🎮 Developer’s Journey
 
 ### 🧩 Early Spark
-
-Started with curiosity — now crafting entire worlds 🌍.
+Started with curiosity — now crafting entire worlds 🌍.  
 From coding small prototypes to designing story-driven universes with **emotion, culture, and sci-fi vibes.**
 
 ### 🏗️ Current Focus
-
-* 🎮 **Game Development (Unity, Unreal)**
-* 🌐 **Futuristic Web Interfaces**
-* 📱 **Interactive App Systems**
-* 🎨 **Pakistani Futurism Design Aesthetic**
+- 🎮 **Game Development (Unity, Unreal)**
+- 🌐 **Futuristic Web Interfaces**
+- 📱 **Interactive App Systems**
+- 🎨 **Pakistani Futurism Design Aesthetic**
 
 ---
 
@@ -70,14 +61,13 @@ From coding small prototypes to designing story-driven universes with **emotion,
 
 > 🎯 *"Turning Pakistani creativity into a global digital identity."*
 
-**Paknova Games** is my own indie game studio where art meets technology.
+**Paknova Games** is my own indie game studio where art meets technology.  
 We design **cinematic stories**, **3D games**, and **tech experiences** inspired by **Pakistani culture + futuristic vision**.
 
 ### 🎯 Paknova Goals:
-
-* Represent **Pakistan** on **Steam** & **international gaming platforms**.
-* Support local artists, coders & storytellers.
-* Build a **national creative identity** through digital art.
+- Represent **Pakistan** on **Steam** & **international gaming platforms**.  
+- Support local artists, coders & storytellers.  
+- Build a **national creative identity** through digital art.
 
 ---
 
@@ -85,11 +75,11 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
 
 <div align="center">
 
-| 🎮 Game Dev    | 💻 Web Dev                 |
-| -------------- | -------------------------- |
-| Unity 3D , C#  | HTML, CSS, JS              |
-| Unreal Engine  | React (learning)           |
-| Game Mechanics | PHP & Databases (learning) |
+| 🎮 Game Dev | 💻 Web Dev 
+|-------------|-------------
+| Unity 3D , C#| HTML, CSS, JS 
+| Unreal Engine | React (learning) 
+| Game Mechanics | PHP & Databases (learning) 
 
 </div>
 
@@ -118,8 +108,7 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
 
 ---
 
-### 🌌 Dynamic Contribution Graph
-
+### 🌌 Dynamic Contribution Graph  
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -134,11 +123,11 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
 
 ## 🏆 Major Achievements
 
-* 🕹️ Built **SkyFire Racer** — Pakistan’s first futuristic racing concept.
-* 🌆 Developing **Dead Horizon 2**, **Aurora Initiative**, and **Pak Thunder Racing**.
-* 🌐 Founded **Paknova Games**, representing creative Pakistan internationally.
-* 💡 Open-source contributor & community mentor.
-* 🎓 Self-taught developer mastering **game systems + web fusion**.
+- 🕹️ Built **SkyFire Racer** — Pakistan’s first futuristic racing concept.  
+- 🌆 Developing **Dead Horizon 2**, **Aurora Initiative**, and **Pak Thunder Racing**.  
+- 🌐 Founded **Paknova Games**, representing creative Pakistan internationally.  
+- 💡 Open-source contributor & community mentor.  
+- 🎓 Self-taught developer mastering **game systems + web fusion**.  
 
 ---
 
@@ -146,22 +135,22 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
 
 > 💬 “Every interface should tell a story. Every story deserves an interface.”
 
-* 🎥 Blend of **cinematic visuals** and **functional UX**
-* 🌙 Themes: *Pakistani Futurism, Desi Neon, Retro Tech, Sci-Fi Storytelling*
-* 🪩 Inspired by **Scary Teacher 3D**, **Indie Pakistani creativity**, and **AAA quality goals**
+- 🎥 Blend of **cinematic visuals** and **functional UX**  
+- 🌙 Themes: *Pakistani Futurism, Desi Neon, Retro Tech, Sci-Fi Storytelling*  
+- 🪩 Inspired by **Scary Teacher 3D**, **Indie Pakistani creativity**, and **AAA quality goals**
 
 ---
 
 ## 💬 Fun Facts
 
-* ⚙️ I debug with **lofi beats** 🎧
-* 🌍 Dream: to launch a **Pakistani game on Steam**
-* 🧩 Believe: *“Ideas are just the beginning — execution makes them legends.”*
-* 🚀 Motto: *Never normal. Always creative.*
+- ⚙️ I debug with **lofi beats** 🎧  
+- 🌍 Dream: to launch a **Pakistani game on Steam**  
+- 🧩 Believe: *“Ideas are just the beginning — execution makes them legends.”*  
+- 🚀 Motto: *Never normal. Always creative.*
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <div align="center">
   <a href="https://github.com/munib-jahangir"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>
@@ -171,25 +160,30 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
 </div>
 
 ---
-
 ## 🇵🇰 Pakistani Pride
 
 <p align="center">
   <img src="./pakistan-603_256.gif" width="250" alt="Pakistani Flag Waving">
 </p>
 
-> *“This code, this art — all built to represent the streets, sounds, and spirit of Pakistan.”*
+> *“This code, this art — all built to represent the streets, sounds, and spirit of Pakistan.”*  
 > — **Munib Jahangir, Founder of PakNova Games**
+
 
 ---
 
 <h3 align="center">✨ “Code your imagination. Create your future.” ✨</h3>
 
+---
+
+<!-- 🇵🇰 New GIF Before About Me -->
+
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8919cc7e-0b13-4fd3-9638-122e4d59de87" width="100%" />
+  <img src="./Animated_Pakistani_Mountains_GIF.gif" width="100%" alt="Pakistani Mountains Animated Flag" />
 </p>
+
 
 ---
 
 <h2 align="center">🚀 Made with ❤️ by <b>Munib Jahangir</b> | Paknova Games</h2>
-<p align="center">🌐 Bridging Creativity, Culture & Code from Pakistan 🇵🇰</p>
+<p align="center">🌐 Bridging Creativity, Culture & Code from Pakistan 🇵🇰</p> 
