@@ -1,5 +1,4 @@
 
-You said:
 <!-- 🌌 MAX-LEVEL GITHUB README by Munib Jahangir 🌌 -->
 <!-- Inspired by Futuristic Pakistan | Powered by Code, Creativity & Culture -->
 
@@ -94,6 +93,7 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="160" >
 </div>
 
 ---
@@ -155,7 +155,7 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
 <div align="center">
   <a href="https://github.com/munib-jahangir"><img src="https://skillicons.dev/icons?i=github" width="50" /></a>
   <a href="https://www.linkedin.com/in/munib-jahangir"><img src="https://skillicons.dev/icons?i=linkedin" width="50" /></a>
-  <a href="mailto:munibjahangir.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>
+  <a href="mailto:munibjahangir10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="50" /></a>
 </div>
 
