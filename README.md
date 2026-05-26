@@ -21,7 +21,6 @@ I'm **Munib Jahangir**, a **Student**, **Game Developer**, **Web/App Developer**
 
 > “I believe in fusing art, logic, and emotion — turning code into experiences.”
 
-I’m building a future where **Pakistani innovation meets global standards**, through **interactive storytelling, futuristic design**, and **vision-driven projects**.
 ---
 
 ## ⚡ My Skills
