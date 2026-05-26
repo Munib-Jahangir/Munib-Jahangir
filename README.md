@@ -90,4 +90,6 @@ I'm **Munib Jahangir**, a **Student**, **Game Developer**, **Web/App Developer**
 ---
 
 <h2 align="center">🚀 Made with ❤️ by <b>Munib Jahangir</b></h2>
-<p align="center">🌐 Bridging Creativity, Culture & Code from Pakistan 🇵🇰</p> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=120&section=footer"/>
+</p>
