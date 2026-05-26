@@ -14,10 +14,6 @@
 
 ---
 
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> </div>
-
----
-
 ## 👤 About Me
 
 Hey there! 👋  
@@ -26,48 +22,6 @@ I'm **Munib Jahangir**, a **Student**, **Game Developer**, **Web/App Developer**
 > “I believe in fusing art, logic, and emotion — turning code into experiences.”
 
 I’m building a future where **Pakistani innovation meets global standards**, through **interactive storytelling, futuristic design**, and **vision-driven projects**.
-
----
-
-### 🧭 My Mission
-To transform **Pakistan’s digital image** into a hub of **creativity, quality, and futuristic gaming** 🎮  
-Through **Paknova Games**, I aim to blend our **local roots** with **global standards**.
-
----
-
-### 💡 Philosophy
-- 🌟 *Create experiences, not just code.*
-- 💭 *Think futuristic, act realistic.*
-- 🔥 *Dream it. Code it. Live it.*
-
----
-
-## 🎮 Developer’s Journey
-
-### 🧩 Early Spark
-Started with curiosity — now crafting entire worlds 🌍.  
-From coding small prototypes to designing story-driven universes with **emotion, culture, and sci-fi vibes.**
-
-### 🏗️ Current Focus
-- 🎮 **Game Development (Unity, Unreal)**
-- 🌐 **Futuristic Web Interfaces**
-- 📱 **Interactive App Systems**
-- 🎨 **Pakistani Futurism Design Aesthetic**
-
----
-
-## 🏢 Founder — Paknova Games
-
-> 🎯 *"Turning Pakistani creativity into a global digital identity."*
-
-**Paknova Games** is my own indie game studio where art meets technology.  
-We design **cinematic stories**, **3D games**, and **tech experiences** inspired by **Pakistani culture + futuristic vision**.
-
-### 🎯 Paknova Goals:
-- Represent **Pakistan** on **Steam** & **international gaming platforms**.  
-- Support local artists, coders & storytellers.  
-- Build a **national creative identity** through digital art.
-
 ---
 
 ## ⚡ My Skills
@@ -101,9 +55,9 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=munib-jahangir&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=munib-jahangir&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munib-jahangir&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  
 </div>
 
 ---
@@ -121,35 +75,6 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
 
 ---
 
-## 🏆 Major Achievements
-
-- 🕹️ Built **SkyFire Racer** — Pakistan’s first futuristic racing concept.  
-- 🌆 Developing **Dead Horizon 2**, **Aurora Initiative**, and **Pak Thunder Racing**.  
-- 🌐 Founded **Paknova Games**, representing creative Pakistan internationally.  
-- 💡 Open-source contributor & community mentor.  
-- 🎓 Self-taught developer mastering **game systems + web fusion**.  
-
----
-
-## 🎨 Design Philosophy
-
-> 💬 “Every interface should tell a story. Every story deserves an interface.”
-
-- 🎥 Blend of **cinematic visuals** and **functional UX**  
-- 🌙 Themes: *Pakistani Futurism, Desi Neon, Retro Tech, Sci-Fi Storytelling*  
-- 🪩 Inspired by **Scary Teacher 3D**, **Indie Pakistani creativity**, and **AAA quality goals**
-
----
-
-## 💬 Fun Facts
-
-- ⚙️ I debug with **lofi beats** 🎧  
-- 🌍 Dream: to launch a **Pakistani game on Steam**  
-- 🧩 Believe: *“Ideas are just the beginning — execution makes them legends.”*  
-- 🚀 Motto: *Never normal. Always creative.*
-
----
-
 ## 🌐 Connect With Me  
 
 <div align="center">
@@ -158,32 +83,12 @@ We design **cinematic stories**, **3D games**, and **tech experiences** inspired
   <a href="mailto:munibjahangir10@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=twitter" width="50" /></a>
 </div>
-
----
-## 🇵🇰 Pakistani Pride
-
-<p align="center">
-  <img src="./pakistan-603_256.gif" width="250" alt="Pakistani Flag Waving">
-</p>
-
-> *“This code, this art — all built to represent the streets, sounds, and spirit of Pakistan.”*  
-> — **Munib Jahangir, Founder of PakNova Games**
-
-
 ---
 
 <h3 align="center">✨ “Code your imagination. Create your future.” ✨</h3>
 
----
-
-<!-- 🇵🇰 New GIF Before About Me -->
-
-<p align="center">
-  <img src="./Animated_Pakistani_Mountains_GIF.gif" width="100%" alt="Pakistani Mountains Animated Flag" />
-</p>
-
 
 ---
 
-<h2 align="center">🚀 Made with ❤️ by <b>Munib Jahangir</b> | Paknova Games</h2>
+<h2 align="center">🚀 Made with ❤️ by <b>Munib Jahangir</b></h2>
 <p align="center">🌐 Bridging Creativity, Culture & Code from Pakistan 🇵🇰</p> 
